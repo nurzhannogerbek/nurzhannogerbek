@@ -10,9 +10,9 @@
 
 🏢 I started my career from developing multi-user web applications for the outsourcing company `«Rubius»` in 2015.
 
-🏦 Then I worked for 1.5 years in the `«Kazakstan Stock Exchange»` in FinTech projects. The company assigned me to design and develop 4 financial and analytical web projects.
+🏦 Then I worked for 1.5 years in the `«Kazakstan Stock Exchange»` in FinTech projects. The company assigned me to design and develop `4` financial and analytical web projects.
 
-📡 Since 2018 I have been working in the telco company `«VEON»`. I am proud to have designed and developed 7 scalable distributed Big Data systems in a microservice architecture.
+📡 Since 2018 I have been working in the telco company `«VEON»`. I am proud to have designed and developed `7` scalable distributed Big Data systems in a microservice architecture.
 
 🚀 I have implemented `15+` successful web projects that have made life easier for thousands of users. You can easily find descriptions of these projects in my GitHub profile.
 
