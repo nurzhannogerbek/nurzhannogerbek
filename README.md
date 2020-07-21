@@ -2,7 +2,7 @@
 
 🏠 I am living in `Almaty` and I am from `Kazakhstan`.
 
-🧑🏻‍💻 I am currently a `Full Stack Software Engineer` at one of the largest telco companies in Central Asia.
+🔨 I am a `Full Stack Software Engineer` at one of the largest telco companies in Central Asia.
 
 👦🏻 Since I first wrote my first piece of code in `Turbo Pascal` as a child using my father's personal computer in `Windows 95`, software development has become my passion.
 
