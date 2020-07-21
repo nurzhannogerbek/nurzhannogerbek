@@ -22,6 +22,6 @@
 
 🤖 I participate in the development of open-source projects on the GitHub platform in my spare time.
 
-👾 Please visit my [personal website](www.nurzhannogerbek.com) for more information.
+👾 Please visit my [personal website](https://nurzhannogerbek.com) for more information.
 
 📩 Feel free to contact me with your ideas and suggestions! 
