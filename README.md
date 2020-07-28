@@ -20,6 +20,8 @@
 
 📚 I have a `Master's Degree` in `Computer Science` from `Tomsk Polytechnic University` in Russia.
 
+🤖 I am an ML/DL enthusiast.
+
 👾 Please visit my [personal website](https://nurzhannogerbek.com) for more information.
 
 📩 Feel free to contact me with your ideas and suggestions! 
