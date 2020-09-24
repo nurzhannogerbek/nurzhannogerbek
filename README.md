@@ -12,7 +12,7 @@
 
 📡 I worked for the largest telecommunications company in Central Asia from 2018 to 2020. I am proud to have participated in the creation of `7` scalable distributed Big Data systems in a microservice architecture at `VEON` company.
 
-🚀 Since the fall of 2020, I have been involved in the development of a fast-growing and promising startup at `Smart Lab LLP` company.
+🚀 Since the fall of 2020, I have been involved in the development of a fast-growing and promising startup at `SmartLab` company.
 
 🛠 I usually use `Golang` for `Backend Development`, `JavaScript` for `Frontend Development`, `Scala` for `Data Engineering`, and `Python` for `Data Science`.
 
