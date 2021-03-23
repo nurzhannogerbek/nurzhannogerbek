@@ -20,6 +20,4 @@
 
 🤖 I have implemented `15+` successful web projects that have made life easier for thousands of users. You can easily find details of these projects in my GitHub profile.
 
-👾 Please visit my [personal website](https://nurzhannogerbek.com) for more information.
-
 📩 Feel free to contact me with your ideas and suggestions! 
