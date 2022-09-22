@@ -10,7 +10,7 @@
 
 📡 I am proud that I worked for one of the largest telecommunications companies in Central Asia the period from `2018` to `2020`. `VEON` management entrusted me with the creation of scalable, fault-tolerant, distributed `Big Data` systems in a microservice architecture in `7` different projects.
 
-🚀 I am passionate about the `AWS` ecosystem. My deep dive into the details of its cloud products began in the fall of `2020` when I was invited to develop a `SaaS` platform from scratch at the `SmartLab` company. The result of my work was the sale of the `3beep` project I was working on to the largest telecommunications company in Asia.
+🚀 I am passionate about the `AWS` ecosystem. My deep dive into the details of its cloud products began in the fall of `2020` when I was invited to develop a `SaaS` platform from scratch at the `SmartLab` company. The result of my work was the sale of the startup I was working on to the largest telecommunications company in Asia.
 
 🛠 I usually use `Golang` for `Backend Development`, `JavaScript` for `Frontend Development`, `Scala` for `Data Engineering`, and `Python` for `Data Science`.
 
