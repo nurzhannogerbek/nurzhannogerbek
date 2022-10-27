@@ -14,7 +14,7 @@
 
 🛠 I usually use `Golang` for `Backend Development`, `JavaScript` for `Frontend Development`, `Scala` for `Data Engineering`, and `Python` for `Data Science`.
 
-📚 I have a `Master's Degree` in `Computer Science` from `Tomsk Polytechnic University (TPU)`.
+📚 I have a `Master's Degree` in `Information Systems and Technologies` from `Tomsk Polytechnic University`.
 
 🤖 I have experience working in startups and big companies. I have implemented dozens of successful projects that have made life easier for thousands of users. You can easily find details of some of these projects on my `GitHub` repository.
 
