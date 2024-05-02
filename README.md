@@ -1,4 +1,4 @@
-✌🏻 Hello, my friend! I am glad to see you on my personal LinkedIn profile. My name is Nurzhan.
+✌🏻 Hello, my friend! I am glad to see you on my personal GitHub profile. My name is Nurzhan.
 
 ⏱ My passion for software development ignited when I crafted my very first piece of code using the Turbo Pascal programming language on my father's personal computer as a child. This zeal for coding has not only persisted but has flourished over the years. Now, with more than 8 years of experience in the IT industry, I continue to embrace this passion daily.
 
